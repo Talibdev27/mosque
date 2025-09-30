@@ -1,0 +1,16 @@
+# Monorepo ignore
+
+# Node/Next
+web/node_modules/
+web/.next/
+web/.turbo/
+web/.env*
+
+# Python venv
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env*
+
+# OS
+.DS_Store
